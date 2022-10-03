@@ -9,4 +9,9 @@
 
 | Problem Name                        | Level    |  Date            |
 | ----------------------------------- | :------: |  :-----------:   |
-| [Hello World](./hello-world/)                         | Low      |Sept 29,2022    |
+| [Looping A Traingle](./looping-a-triangle/)                         | Low      |Sept 29,2022    |
+| [FizzBuzz](./fizz-buzz/)                         | Low      |Sept 1,2022    |
+| [Chessboard](./chessboard/)                         | Low      |Sept 1,2022    |
+| [Minimum](./minimum/)                         | Low      |Sept 2,2022    |
+| [Recursion](./recursion/)                         | Low      |Sept 2,2022    |
+| [Bean Counting](./bean%20counting/)                         | Low      |Sept 2,2022    |
